@@ -102,7 +102,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias cdrepo="cd repos/"
 alias ll="ls -al"
-alias la='exa -laG'
+alias la='exa --long --git --header -la'
 alias clr="clear"
 alias o="open"
 
