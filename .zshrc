@@ -102,8 +102,10 @@ source $ZSH/oh-my-zsh.sh
 
 alias cdrepo="cd repos/"
 alias ll="ls -al"
+alias la='exa -laG'
 alias clr="clear"
 alias o="open"
+
 
 #-------------------------
 #git aliases
